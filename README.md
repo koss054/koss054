@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koss</h1>
 <h3 align="center">A student at SoftUni, studying C# Web Development.</h3>
 
-- 🔭 I’m currently working on [GotTheReceipt](https://github.com/koss054/Personal-Projects-Basic/tree/main/ReceiptsProject)
-
 - 📫 How to reach me **konstantin054@abv.bg**
 
 - 🤝 I’m looking for help with **Web Development and Career Development as a Developer**
