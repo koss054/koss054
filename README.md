@@ -12,6 +12,11 @@
 
 <h3 align="left">SoftUni Certificates:</h3>
 
-- [Programming Basics](https://softuni.bg/certificates/details/107349/2e8ea6df)
+- [Programming Basics - May 2021](https://softuni.bg/certificates/details/107349/2e8ea6df)
+- [Programming Fundamentals with C# - September 2021](https://softuni.bg/certificates/details/119978/db1b63ec)
+- [C# Advanced - January 2022](https://softuni.bg/certificates/details/123612/196882b5)
+- [C# OOP - February 2022](https://softuni.bg/certificates/details/130950/25e362cb)
+- [MS SQL - May 2022](https://softuni.bg/certificates/details/134776/2ea011f0)
+- [Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138307/97883558)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koss054&show_icons=true&theme=radical)
