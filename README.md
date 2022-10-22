@@ -19,4 +19,4 @@
 - [MS SQL - May 2022](https://softuni.bg/certificates/details/134776/2ea011f0)
 - [Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138307/97883558)
 
-<img align="center" src="https://www.codewars.com/users/koss054%20/badges/large" alt="code-wars">
+<h3 align="center"><img src="https://www.codewars.com/users/koss054%20/badges/large" alt="code-wars"></h3>
