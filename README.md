@@ -19,8 +19,6 @@
 - [MS SQL - May 2022](https://softuni.bg/certificates/details/134776/2ea011f0)
 - [Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138307/97883558)
 
-<h3 align="left>CodeWars Profile and Projects:</h3>
-<ul>
-<li><a href="https://github.com/koss054/CodeWars-CSharp">CodeWars Solutions</a></li>
-<li><img src="https://www.codewars.com/users/koss054%20/badges/large" alt="code-wars"></li>
-</ul>
+<center>
+<img src="https://www.codewars.com/users/koss054%20/badges/large" alt="code-wars">
+</center>
