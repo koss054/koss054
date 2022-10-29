@@ -21,17 +21,12 @@
   - [Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138307/97883558)
   
 </details>
-<h3 align="left">SoftUni Certificates:</h3>
 
-- [Programming Basics - May 2021](https://softuni.bg/certificates/details/107349/2e8ea6df)
-- [Programming Fundamentals with C# - September 2021](https://softuni.bg/certificates/details/119978/db1b63ec)
-- [C# Advanced - January 2022](https://softuni.bg/certificates/details/123612/196882b5)
-- [C# OOP - February 2022](https://softuni.bg/certificates/details/130950/25e362cb)
-- [MS SQL - May 2022](https://softuni.bg/certificates/details/134776/2ea011f0)
-- [Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138307/97883558)
+<details>
+  <summary><h3 align="left">Udemy Certificates:</h3></summary>
+  
+  - [The Git & Github Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-21d5ef45-1525-450f-998d-4c2b98fdce58.jpg)
+  
+</details>
 
 <h3 align="center"><img src="https://www.codewars.com/users/koss054%20/badges/large" alt="code-wars"></h3>
-
-<h3 align="left">Udemy Certificates:</h3>
-
-- [The Git & Github Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-21d5ef45-1525-450f-998d-4c2b98fdce58.jpg)
