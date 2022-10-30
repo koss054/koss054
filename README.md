@@ -27,6 +27,13 @@
   
   - [The Git & Github Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-21d5ef45-1525-450f-998d-4c2b98fdce58.jpg)
   
+  <details>
+     <summary>test</summary>
+
+     - Test
+
+  </details>
+
 </details>
 
 <h3 align="center"><img src="https://www.codewars.com/users/koss054%20/badges/large" alt="code-wars"></h3>
