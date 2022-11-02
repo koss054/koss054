@@ -27,6 +27,7 @@
   <summary><h3 align="left">Udemy Certificates:</h3></summary>
   
   - [The Git & Github Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-21d5ef45-1525-450f-998d-4c2b98fdce58.jpg)
+  - [Complete Web Design Course: HTML, CSS, Javascript and jQuery](https://udemy-certificate.s3.amazonaws.com/image/UC-4cd3eda5-d6e5-4fcb-96ac-7cb03608bbdd.jpg)
   
 </details>
 
