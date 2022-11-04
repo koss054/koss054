@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koss</h1>
-<h3 align="center">A student at SoftUni, studying C# Web Development.</h3>
+<h3 align="center">A student at SoftUni, studying C# Web Development, and Trainee Software Engineer at SoftServe.</h3>
 
 - 📫 How to reach me **konstantin054@abv.bg**
 
