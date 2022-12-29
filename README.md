@@ -22,6 +22,7 @@
   - [MS SQL - May 2022](https://softuni.bg/certificates/details/134776/2ea011f0)
   - [Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138307/97883558)
   - [ASP.NET Fundamentals - September 2022](https://softuni.bg/certificates/details/146552/7e8fec5f)
+  - [ASP.NET Advanced - October 2022](https://softuni.bg/certificates/details/152302/46dc6bd4)
   
 </details>
 
