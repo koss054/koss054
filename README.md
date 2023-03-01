@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Koss</h1>
-<h3 align="center">A student at SoftUni, studying C# Web Development, and Trainee Software Engineer at SoftServe.</h3>
-
-- 📫 How to reach me **konstantin054@abv.bg**
-
-- 🤝 I’m looking for help with **Web Development and Career Development as a Developer**
-
-- 🌱 I’m currently learning **Creating Web Applications with C# and various Udemy courses**
 
 - 🎮 Small JavaScript game - [Guess My Number!](https://koss054.github.io/)
 
