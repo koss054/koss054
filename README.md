@@ -19,6 +19,7 @@
   - [ASP.NET Fundamentals - September 2022](https://softuni.bg/certificates/details/146552/7e8fec5f)
   - [ASP.NET Advanced - October 2022](https://softuni.bg/certificates/details/152302/46dc6bd4)
   - [HTML & CSS - January 2023](https://softuni.bg/certificates/details/162934/41a9f50d)
+  - [JS Front-End - February 2023](https://softuni.bg/certificates/details/168422/e226a243)
   
 </details>
 
